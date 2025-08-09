@@ -644,9 +644,8 @@ https://fadhillah.serv00.net/scripts/vidiohls.php/stream.m3u8?id=17141
 // Collected by @denitv menampilkan playlist >>> 01. Religi TV
 ============================================================================================================================================================
 
-#EXTINF:-1 group-title="01.TV Religi" tvg-logo="https://raw.githubusercontent.com/Kaizan1982/blackgold/refs/heads/main/IMG_20250809_084503.png",INFO CHANNEL
+#EXTINF:-1 group-title="01. TV Religi" tvg-logo="https://raw.githubusercontent.com/Kaizan1982/blackgold/refs/heads/main/IMG_20250809_084503.png",INFO CHANNEL
 https://dl.dropboxusercontent.com/scl/fi/7jvwszmilv0z9qxpeq3vd/DONASI-DANA.mp4?rlkey=g54uwbpvw57caoml975hlgxas&st=948sgcgt&dl=0
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Makkah_TV.png" group-title="01. TV Religi", 00. MakkahTV
 https://wahyu1ptv.pages.dev/MakkahTV-HD.m3u8
 #EXTINF:-1 tvg-logo="" group-title="01. TV Religi", 01. LIVE MADINAH
@@ -730,9 +729,8 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 // Collected by @denitv menampilkan playlist >>> 02. News TV
 ============================================================================================================================================================
 
-#EXTINF:-1 group-title="02.TV News" tvg-logo="https://raw.githubusercontent.com/Kaizan1982/blackgold/refs/heads/main/IMG_20250809_084503.png",INFO CHANNEL
+#EXTINF:-1 group-title="02. TV News" tvg-logo="https://raw.githubusercontent.com/Kaizan1982/blackgold/refs/heads/main/IMG_20250809_084503.png",INFO CHANNEL
 https://dl.dropboxusercontent.com/scl/fi/7jvwszmilv0z9qxpeq3vd/DONASI-DANA.mp4?rlkey=g54uwbpvw57caoml975hlgxas&st=948sgcgt&dl=0
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MetroTV.png" group-title="02. TV News", 01. MetroTV
 https://wahyu1ptv.pages.dev/MetroTV-HD.m3u8
 
@@ -802,9 +800,8 @@ https://atemeshield1-voe.sysln.id/live/eds/JakartaGlobeHD/mpd/JakartaGlobeHD.mpd
 // Collected by @denitv menampilkan playlist >>> 03. TV Nasional
 ============================================================================================================================================================
 
-#EXTINF:-1 group-title="03.TV Nasional" tvg-logo="https://raw.githubusercontent.com/Kaizan1982/blackgold/refs/heads/main/IMG_20250809_084503.png",INFO CHANNEL
+#EXTINF:-1 group-title="03. TV Nasional" tvg-logo="https://raw.githubusercontent.com/Kaizan1982/blackgold/refs/heads/main/IMG_20250809_084503.png",INFO CHANNEL
 https://dl.dropboxusercontent.com/scl/fi/7jvwszmilv0z9qxpeq3vd/DONASI-DANA.mp4?rlkey=g54uwbpvw57caoml975hlgxas&st=948sgcgt&dl=0
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Indosiar.png" group-title="03. TV Nasional",01. Indosiar
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
@@ -938,7 +935,7 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8
 
 ==========================local indihome=============================
 
-#EXTINF:-1 group-title="03.Indihome TV" tvg-logo="https://raw.githubusercontent.com/Kaizan1982/blackgold/refs/heads/main/IMG_20250809_084503.png",INFO CHANNEL
+#EXTINF:-1 group-title="03. Indihome TV" tvg-logo="https://raw.githubusercontent.com/Kaizan1982/blackgold/refs/heads/main/IMG_20250809_084503.png",INFO CHANNEL
 https://dl.dropboxusercontent.com/scl/fi/7jvwszmilv0z9qxpeq3vd/DONASI-DANA.mp4?rlkey=g54uwbpvw57caoml975hlgxas&st=948sgcgt&dl=0
 
 #EXTINF:-1 tvg-id="" tvg-name="------|INDIHOME------" tvg-logo="" group-title="03. Indihome TV",------|TV LOKAL|------
@@ -1567,7 +1564,6 @@ https://cdn10jtedge.indihometv.com/atm/DASH/garuda/manifest.mpd
 
 #EXTINF:-1 group-title="03. TV Nasional 2" tvg-logo="https://raw.githubusercontent.com/Kaizan1982/blackgold/refs/heads/main/IMG_20250809_084503.png",INFO CHANNEL
 https://dl.dropboxusercontent.com/scl/fi/7jvwszmilv0z9qxpeq3vd/DONASI-DANA.mp4?rlkey=g54uwbpvw57caoml975hlgxas&st=948sgcgt&dl=0
-
 #EXTINF:-1 group-title="03. TV Nasional 2" tvg-id="" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cd6e825832393/a60c24e321d640f782d84cacb671173e.png",RCTI (V+)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
